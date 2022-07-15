@@ -1,7 +1,8 @@
+<img src="./img/banner.png">
 <h1 align="center">Hi 👋, I'm Esmatullah Ahmadzai (Esmat)</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
-<img src="img/banner.png">
-<img width="400px" align = "right" src="">
+
+<img width="400px" align = "right" src="./img/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eaesmat&label=Profile%20views&color=0e75b6&style=flat" alt="eaesmat" /> </p>
 
