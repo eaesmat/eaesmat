@@ -1,4 +1,4 @@
-<img  align = "center" src="./img/banner.png">
+<img  align = "center" width ="100%" src="./img/banner.png">
 <h1 align="center">Hi 👋, I'm Esmatullah Ahmadzai (Esmat)</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
