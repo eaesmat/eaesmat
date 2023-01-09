@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/ea_ahmadzai" target="blank"><img src="https://img.shields.io/twitter/follow/ea_ahmadzai?logo=twitter&style=for-the-badge" alt="ea_ahmadzai" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React, Ruby, Ruby on Rails**
+- 🌱 I’m currently working with **JavaScript, React, Ruby, Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://eaesmat.github.io/Portfolio/](https://eaesmat.github.io/Portfolio/)
 
