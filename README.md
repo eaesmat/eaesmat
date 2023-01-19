@@ -16,8 +16,7 @@
 
 - 💬 Ask me about **JavaScript, Remote Working, React**
 
-- 📫 How to reach me **ea.ahmadzai2020@gmail.com**
-- 📫 How to reach me **ea.ahmadzai2001@gmail.com**
+- 📫 How to reach me **ea.ahmadzai2020@gmail.com** && **ea.ahmadzai2001@gmail.com**
 
 - ⚡ Fun fact **Yeah!|I'm!**
 
